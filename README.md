@@ -12,6 +12,6 @@ Flask CRUD Application:
         exit()
 
 
-3)Now to run the application use this command:
+3) Now to run the application use this command:
 
         python app.py
