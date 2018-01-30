@@ -7,7 +7,7 @@ Flask CRUD Application:
 
 2) After installing the dependencies, run these commands in python from project directory:
 
-        from bookmanager import db
+        from app import db
         db.create_all()
         exit()
 
